@@ -7,6 +7,11 @@ Thanks to everyone who showed up on our first meetup and we hope to see you agai
 
 ## Secure Account Management Services in Go
 
+- Speaker: [Florian Harwöck](https://harwoeck.at)
+- Slides: [PDF](https://harwoeck.at/talks/2018-01/gopher-meetup-1/Secure_Account_Management_Services_by_Florian_Harwoeck.pdf)
+
+If there are any open questions let me know: florian@harwoeck.at or via social networks! :)
+
 ## My Decade with Go
 
 ## Go Modules
