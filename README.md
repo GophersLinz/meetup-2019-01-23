@@ -5,6 +5,9 @@ Thanks to everyone who showed up on our first meetup and we hope to see you agai
 
 ## An introduction to Go
 
+- Speaker: [Johannes Pichler](https://johannespichler.com)
+- Slides: [PDF](slides/an-introduction-to-go.pdf)
+
 ## Secure Account Management Services in Go
 
 - Speaker: [Florian Harwöck](https://harwoeck.at)
