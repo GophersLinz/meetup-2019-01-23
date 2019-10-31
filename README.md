@@ -17,6 +17,9 @@ If there are any open questions let me know: florian@harwoeck.at or via social n
 
 ## My Decade with Go
 
+- Speaker: [Markus Zimmermann](https://www.linkedin.com/in/markus-zimmermann/)
+- Slides: [README](https://github.com/symflower/sessions/blob/master/2019/gophers-linz/README.md) and [PDF](https://github.com/symflower/sessions/raw/master/2019/gophers-linz/Symflower%20-%20My%20Decade%20With%20Go.pdf)
+
 ## Go Modules
 - repo: [Github](https://github.com/GophersLinz/go-modules)
 - slides: [googleDrive](https://docs.google.com/presentation/d/1pvXwoKyWqZ3Th3YRv0ibTM4_ddYzvXQyJn9UPM0LDuA/edit?usp=sharing)
